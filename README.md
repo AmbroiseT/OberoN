@@ -4,3 +4,4 @@ Il s'agit d'un logiciel de géométrie vectorielle en java avec diverses fonctio
 lisez le fichier "rapport.pdf". Pour tester immédiatement le projet, il suffit de lancer le .jar qui se trouve dans 
 le dossier jar. Vous pouvez également importer le projet sous eclipse.
 
+![Capture d'écran](/Circle.PNG)
